@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="-32.005081"
+     inkscape:cy="184.22437"
+     inkscape:window-width="1050"
+     inkscape:window-height="1592"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1034" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1718"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#fcfcfc;stop-opacity:1;"
+         offset="0"
+         id="stop1716" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1546"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path10097"
+       style="fill:#ff0000;stroke-width:1.01213"
+       d="M 374.14258 264.45898 A 57.636818 62.264265 0 0 0 316.50586 326.72266 A 57.636818 62.264265 0 0 0 359.83984 386.99805 L 298.30859 386.99805 C 276.14859 386.99805 258.30859 404.83804 258.30859 426.99805 L 258.30859 588.84375 C 258.30859 611.00376 276.14859 628.84375 298.30859 628.84375 L 460.15625 628.84375 C 482.31626 628.84375 500.15625 611.00376 500.15625 588.84375 L 500.15625 426.99805 C 500.15625 404.83804 482.31626 386.99805 460.15625 386.99805 L 388.44531 386.99805 A 57.636818 62.264265 0 0 0 431.7793 326.72266 A 57.636818 62.264265 0 0 0 374.14258 264.45898 z "
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
