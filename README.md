@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Using Next JS & Tailwind  
+#StayHealthy Inc. Digital Initiative
+
+StayHealthy Inc. is a non-profit organization with a mission to enhance healthcare facilities in remote areas. This repository contains the codebase for the "Go Digital" initiative, aiming to provide a platform for patients to access doctors anytime, anywhere.
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Phase 1 Features](#phase-1-features)
+- [Development Lifecycle](#development-lifecycle)
+- [Getting Started](#getting-started)
+- [Contributors](#contributors)
+- [Changelog](#changelog)
+
+## Project Overview
+
+The primary challenge StayHealthy aims to address is the difficulty patients face in finding the right medical assistance in remote areas. With increasing internet availability, this initiative will bridge the gap between patients and healthcare professionals.
+
+## Features
+
+- **Medical Appointments Online**: Schedule, modify, or cancel appointments.
+- **Doctor Listings**: View available doctors, their ratings, and reviews.
+- **Consultation Feedback**: Rate and review doctor consultations.
+- **Profile Management**: Sign-up, input personal details, and manage profiles.
+- **Access to Patient Records**: Secure access to medical records for both doctors and patients.
+- **News Feeds and Training**: Access educational videos and daily health tips.
+- **Website Administration**: Manage profiles, generate reports, and maintain system integrity.
+
+## Phase 1 Features
+
+For the initial phase, the focus will be on:
+- Medical appointments online
+- Doctor listing for patients
+- Consultation Feedback
+- Profile Management
+- Navigation
+
+## Development Lifecycle
+
+Follow the application development lifecycle as outlined in the project scenario. Begin with a thorough analysis of the requirements before proceeding to the next phase.
 
 ## Getting Started
 
-First, run the development server:
+1. **Design**: Use Figma for UI/UX design.
+2. **Development**: Create static and responsive pages using HTML, CSS, and Reactjs.
+3. **Deployment**: Instructions to be added once the deployment strategy is finalized.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Contributors
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Richa Arora**: Initial concept and versioning.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Changelog
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+| Date       | Version | Changed by  | Change Description           |
+|------------|---------|-------------|-----------------------------|
+| 2023-07-17 | 0.1     | Richa Arora | Initial version created     |
